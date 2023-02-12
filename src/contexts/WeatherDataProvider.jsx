@@ -1,7 +1,7 @@
 import { useEffect, useState, createContext, useContext } from 'react'
 import axios from 'axios'
 import React from 'react'
-const url = 'http://api.weatherapi.com/v1/forecast.json'
+const url = 'https://api.weatherapi.com/v1/forecast.json'
 
 const api_key = '=c6d43c2703de4198bb0192700231102'
 
