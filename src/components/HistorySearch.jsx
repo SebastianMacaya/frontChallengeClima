@@ -1,6 +1,6 @@
 import { Box } from '@chakra-ui/react'
 import CardWeather from './CardWeather'
-import { DataContext, useDataContext } from '../contexts/weatherDataProvider'
+import { DataContext, useDataContext } from '../contexts/WeatherDataProvider'
 
 const HistorySearch = () => {
   const { historyData } = useDataContext()

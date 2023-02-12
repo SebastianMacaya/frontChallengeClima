@@ -1,6 +1,6 @@
 import Layout from '../src/components/Layout/Layout.jsx'
 import Weather from '../src/components/Weather.jsx'
-import { WeatherDataProvider } from '../src/contexts/weatherDataProvider.jsx'
+import { WeatherDataProvider } from '../src/contexts/WeatherDataProvider.jsx'
 
 const Home = () => {
   return (

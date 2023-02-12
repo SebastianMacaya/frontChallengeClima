@@ -1,5 +1,5 @@
 import { Box, Button, Input } from '@chakra-ui/react'
-import { useDataContext } from '../contexts/weatherDataProvider'
+import { useDataContext } from '../contexts/WeatherDataProvider'
 import { useState } from 'react'
 import { SearchIcon } from '@chakra-ui/icons'
 

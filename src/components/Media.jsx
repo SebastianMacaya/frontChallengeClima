@@ -1,4 +1,4 @@
-import { DataContext, useDataContext } from '../contexts/weatherDataProvider'
+import { DataContext, useDataContext } from '../contexts/WeatherDataProvider'
 import { useContext, useState } from 'react'
 import { Card, CardHeader, CardBody, Box, Img } from '@chakra-ui/react'
 import CardWeather from './CardWeather'
