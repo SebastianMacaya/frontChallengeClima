@@ -1,7 +1,7 @@
 import { Box, Button, Input } from '@chakra-ui/react'
 import { useDataContext } from '../contexts/weatherDataProvider'
 import { useState } from 'react'
-import { SearchIcon } from '../../node_modules/@chakra-ui/icons/dist/Search'
+import { SearchIcon } from '@chakra-ui/icons/dist/Search'
 
 const SearchField = () => {
   const [defaultSearch, setDefaultSearch] = useState('')
