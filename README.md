@@ -14,4 +14,6 @@ pd: asegurarse de tener el puerto 3000 disponible
   npm run dev
 ```
 
-![](demoFront.gif)
+luego iniciar el proyecto
+
+![](demoBack.gif)
