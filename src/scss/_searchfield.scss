@@ -1,0 +1,31 @@
+.searchMain{
+    display: flex;
+    justify-content: center;
+    
+    .title{
+       display: flex;
+        justify-content: center;
+        font-size: 2em;
+        color: rosybrown;
+    }
+    .boxSearchField{
+        background-color: #fff;
+        border-radius: 5px;
+        padding: 5px;
+        width: 20%;
+        margin-bottom: 10px;
+        display: flex;
+        .searchField{
+            border: none;
+            width: 100%;
+            padding: 0 10px;
+            font-size: 16px;
+            color: #333;
+            outline: none;
+            &::placeholder{
+                color: #999;
+            }
+        }
+   
+    }
+    }

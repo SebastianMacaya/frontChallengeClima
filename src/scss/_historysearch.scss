@@ -1,0 +1,19 @@
+.mainHistory{
+    border-left: 1px solid gainsboro;
+
+
+    .title{
+        text-align: center;
+        align-self: auto;
+        color: rosybrown;
+    }
+    .cardHistory{
+        margin: 10px;
+        padding: 10px;
+        display: flex;
+        flex-direction:row-reverse;
+
+        
+        
+    }
+}

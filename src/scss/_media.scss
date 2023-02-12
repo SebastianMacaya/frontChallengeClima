@@ -1,0 +1,14 @@
+
+.mediaMain {
+    .mediaBoxCity{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .mediaBoxInfo{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+}

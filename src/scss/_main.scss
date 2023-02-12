@@ -1,0 +1,25 @@
+.mainBox{
+display: flex;
+flex-direction: column;
+min-height: 100%;
+height: auto;
+
+
+.footer{
+width: 100%;
+margin-top: auto;
+position: absolute;
+bottom: 0px;
+
+}
+}
+
+body {
+    margin: 0 auto !important;
+    padding: 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
+    min-height: 100vh !important;
+    
+
+}
